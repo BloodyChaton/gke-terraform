@@ -1,0 +1,8 @@
+# ignore any json credentials
+*.json
+# ignore any terraform config
+.terraform/
+.terraform*
+# ignore any tfstate
+*.tfstate
+*.tfstate.backup
